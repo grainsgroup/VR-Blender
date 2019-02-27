@@ -1,6 +1,9 @@
 # VR Blender
 A python addon for Blender to animate in Virtual Reality
 
+![alt text](https://github.com/grainsgroup/VR-Blender/blob/master/architecture.png)
+
+      
 To use the script:
 
 - Unzip the content of the VR-Blender.zip file
