@@ -11,4 +11,4 @@ To use the script:
 - Open Blender's User Preference and navigate to Add-ons tab
 - Enable the script "3D View: Virtual Reality Viewport" 
 - Choose the "HTC Vive" option as Display Backend in the Preference field
-- Enalbe the script "Development: Interface Configurator"
+- Enable the script "Development: Interface Configurator"
