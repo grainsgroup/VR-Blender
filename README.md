@@ -27,7 +27,7 @@ Free-hand drawing functionalities with this device have been integrated in the V
 Code could be found in folder ['VR Ink support'](/VR%20Ink%20support). 
 
 
-###### References
+#### References
 * <a id="1">[1]</a> Fabrizio Lamberti, Alberto Cannavò and Paolo Montuschi, "Is Immersive Virtual Reality the Ultimate Interface for 3D Animators?" in Computer, vol. 53, no. 4, pp. 36-45, April 2020.
 doi: [10.1109/MC.2019.2908871](https://doi.org/10.1109/MC.2019.2908871)
 * <a id="2">[2]</a> Alberto Cannavò, Claudio Demartini, Lia Morra and Fabrizio Lamberti, "Immersive Virtual Reality-Based Interfaces for Character Animation" in IEEE Access, vol. 7, pp. 125463-125480, 2019.
