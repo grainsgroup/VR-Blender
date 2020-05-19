@@ -13,14 +13,14 @@ To use the script:
 - Choose the "HTC Vive" option as Display Backend in the Preference field
 - Enable the script "Development: Interface Configurator"
 
-More details about this version are provided in Is Immersive Virtual Reality the Ultimate Interface for 3D Animators?[[1]](#1)
+More details about this version are provided in *Is Immersive Virtual Reality the Ultimate Interface for 3D Animators?*[[1]](#1)
 
 A new version of the script has been released (folder ['New Functionalities'](/New%20functionalities)) providing support for virtual character animation (Rigging & Skinning) and VR functionalities customization.
 The extended architecture is illustrated below. 
 
 ![alt text](/architecture-new-functionalities.png)
 
-Details about this extended version are discussed in Immersive Virtual Reality-Based Interfaces for Character Animation[[2]](#2).
+Details about this extended version are discussed in *Immersive Virtual Reality-Based Interfaces for Character Animation*[[2]](#2).
 
 Recently, Logitech has provided us with a sample of their [VR Ink Pilot Edition](https://www.logitech.com/en-roeu/promo/vr-ink.html). 
 Free-hand drawing functionalities with this device have been integrated in the VR Blender addon. 
