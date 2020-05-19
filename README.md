@@ -12,3 +12,5 @@ To use the script:
 - Enable the script "3D View: Virtual Reality Viewport" 
 - Choose the "HTC Vive" option as Display Backend in the Preference field
 - Enable the script "Development: Interface Configurator"
+
+More details about this version are provided in .
