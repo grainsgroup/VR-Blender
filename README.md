@@ -20,6 +20,6 @@ The extended architecture is illustrated below.
 
 Details about this extended version are discussed in [Immersive Virtual Reality-Based Interfaces for Character Animation](https://doi.org/10.1109/ACCESS.2019.2939427).
 
-Recently, Logitech has provided us with a sample of their VR Ink Pilot Edition. 
+Recently, Logitech has provided us with a sample of their [VR Ink Pilot Edition](https://www.logitech.com/en-roeu/promo/vr-ink.html). 
 Free-hand drawing functionalities have been integrated in the VR Blender addon. 
 Code could be found in folder 'VR Ink support'. 
