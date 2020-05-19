@@ -15,7 +15,7 @@ To use the script:
 
 More details about this version are provided in [Is Immersive Virtual Reality the Ultimate Interface for 3D Animators?](https://doi.org/10.1109/MC.2019.2908871)
 
-A new version of the script has been released (folder 'New Functionalities') providing support to virtual characters animation (Rigging & Skinning) and VR functionalities customization.
+A new version of the script has been released (folder ['New Functionalities'](/New%20functionalities) providing support to virtual characters animation (Rigging & Skinning) and VR functionalities customization.
 The extended architecture is illustrated below. 
 
 ![alt text](https://github.com/grainsgroup/VR-Blender/blob/master/architecture-new-functionalities.png)
